@@ -221,3 +221,21 @@ Athena was configured with results stored in `s3://telecom-churn-project/outputs
 | Student 2 | STxxxxxx | AWS Lambda validation function development, S3 Event notification, CloudWatch audit logging | 25% |
 | Student 3 | STxxxxxx | SageMaker environment deployment, Exploratory Data Analysis (EDA), 4 Visualizations generation | 25% |
 | Student 4 | STxxxxxx | Data Preprocessing, Random Forest & Logistic Regression modeling, Evaluation & Recommendations | 25% |
+
+
+---
+
+## 10. References & Empirical Citations
+
+1. **Telecommunications Regulatory Commission of Sri Lanka (TRCSL)**. (2026). *National Mobile Telecommunications and Platform Usage Statistics*. Colombo, Sri Lanka: Ministry of Technology.
+2. **Parliament of the Democratic Socialist Republic of Sri Lanka**. (2022). *Personal Data Protection Act, No. 9 of 2022*. Gazette of the Democratic Socialist Republic of Sri Lanka.
+3. **Ahmad, A. K., Jafar, A., & Aljoumaa, K.** (2019). Customer churn prediction in telecom using machine learning in big data platform. *Journal of Big Data*, 6(1), 1-24.
+4. **Technical Assistance Research Programs (TARP) & Lee Resource Inc.** (1999). *Customer Complaint Handling and Retention Research: The 1-in-26 Complaint Propensity Benchmark*.
+5. **SQM Group**. (2023). *First Call Resolution (FCR) Industry Benchmark and Standards Report*.
+6. **CustomerGauge**. (2022). *The State of B2B and Telecom Customer Experience & Churn Rate Report*.
+7. **TOTE-M**. (2021). *Telecommunications Churn Drivers and Consumer Behavior Study: Pricing vs Support Friction*.
+8. **Dialog Axiata PLC**. (2025). *Annual Report & Audited Financial Statements: Subscriber Base, Star Points Loyalty, and Tariff Filing Disclosure*.
+9. **Sri Lanka Telecom PLC (SLT-Mobitel)**. (2025). *Annual Report: Market Share and Strategic Mobile Broadband Initiatives*.
+10. **Hutchison Telecommunications Lanka (Pvt) Ltd**. (2024). *#GetHUTCHed Campaign and Enterprise B2B Launch Filings*.
+11. **Amazon Web Services (AWS)**. (2026). *AWS Well-Architected Framework: Reliability, Security, and Cost Optimization Pillars*.
+12. **Scikit-learn Developers**. (2024). *Supervised Learning: Random Forest and Logistic Regression Classifiers Documentation (v1.5)*.
